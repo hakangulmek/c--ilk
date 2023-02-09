@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\ilk\ilk\obj\Debug\net6.0\ilk.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\ilk\ilk\obj\Debug\net6.0\ilk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\ilk\ilk\obj\Debug\net6.0\ilk.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\ilk\ilk\obj\Debug\net6.0\ilk.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\ilk\ilk\obj\Debug\net6.0\ilk.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\ilk\ilk\bin\Debug\net6.0\ilk.exe
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\ilk\ilk\bin\Debug\net6.0\ilk.deps.json
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\ilk\ilk\bin\Debug\net6.0\ilk.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\ilk\ilk\bin\Debug\net6.0\ilk.dll
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\ilk\ilk\bin\Debug\net6.0\ilk.pdb
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\ilk\ilk\obj\Debug\net6.0\ilk.dll
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\ilk\ilk\obj\Debug\net6.0\refint\ilk.dll
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\ilk\ilk\obj\Debug\net6.0\ilk.pdb
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\ilk\ilk\obj\Debug\net6.0\ilk.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\ilk\ilk\obj\Debug\net6.0\ref\ilk.dll
